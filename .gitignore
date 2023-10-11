@@ -1,0 +1,7 @@
+/.idea/
+/data/
+/catboost_info/
+/targets-optimization.ipynb
+/ym-box-old.ipynb
+/ym-box-test.ipynb
+test.ipynb
